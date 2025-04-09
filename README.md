@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mujeeba Noor</h1>
 <h3 align="center">A Mern Stack Develeper</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujeeba-noor12" alt="mujeeba-noor12" /></a> </p>
+
 
 - 📫 How to reach me **mujeebanoorr@gmail.com**
 
@@ -16,3 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujeeba-noor12&show_icons=true&locale=en&layout=compact" alt="mujeeba-noor12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujeeba-noor12&show_icons=true&locale=en" alt="mujeeba-noor12" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujeeba-noor12" alt="mujeeba-noor12" /></a> </p>
