@@ -2,8 +2,7 @@
 ### A MERN Stack Developer from Pakistan
 
 <div align="center">
-  <img src="![banner png](https://github.com/user-attachments/assets/3612a090-2d2a-4d21-ac94-0c8ebf2ce2a8)
-banner.png" alt="banner" width="800"/>
+  <img src="banner.png" alt="banner" width="800"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujeeba-noor)
