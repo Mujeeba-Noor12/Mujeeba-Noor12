@@ -1,6 +1,10 @@
 # Hi 👋, I'm Mujeeba Noor
 ### A MERN Stack Developer from Pakistan
 
+<div align="center">
+  <img src="https://github.com/mujeeba-noor12/mujeeba-noor12/assets/68760595/5c3d1a8f-9c1a-4f3a-8f5d-5a5e0b5e5b5f" alt="banner" width="800"/>
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujeeba-noor)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujeebanoorr@gmail.com)
 
