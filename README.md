@@ -2,15 +2,29 @@
 <h1 align="center">Hi 👋, I'm Mujeeba Noor </h1>
 <h3 align="center"> A Passionate Web Developer from Pakistan</h1>
 
+</br>
 
-🌱 I'm Currently Learning
-- Advanced React patterns
-- GraphQL
-- TypeScript
-- AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujeeba-noor)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujeebanoorr@gmail.com)
+🌱 I'm leveling up my skills as a MERN Stack Developer by working on projects
+
+📘 Currently diving into advanced React patterns and backend optimization.
+
+📫 How to reach me mujeebanoorr@gmail.com
+
+
+
+</br>
+<p >
+  <a href="https://linkedin.com/in/mujeeba-noor" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mujeebanoorr@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mujeeba-noor12" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 About Me
 I'm a passionate MERN stack developer with expertise in building modern web applications. I love solving complex problems and creating efficient, scalable solutions with clean code.
@@ -29,7 +43,7 @@ I'm a passionate MERN stack developer with expertise in building modern web appl
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+</br>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-profile-trophy.vercel.app/?username=mujeeba-noor12&theme=radical&margin-w=10&margin-h=15" />
 </div>
@@ -38,14 +52,12 @@ I'm a passionate MERN stack developer with expertise in building modern web appl
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeba-noor12&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200px" alt="GitHub Stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mujeeba-noor12&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150px" alt="GitHub Stats" />
   
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeba-noor12&layout=compact&theme=radical&hide_border=false"  height="200px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeba-noor12&layout=compact&theme=radical&hide_border=false" height="150px" alt="Top Languages" />
  
 </div>
+
 
 
 
