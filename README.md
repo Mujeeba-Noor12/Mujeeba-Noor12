@@ -1,6 +1,13 @@
-![logo](https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/banner.png)
-# Hi 👋, I'm Mujeeba Noor
-### A MERN Stack Developer from Pakistan
+![logo](https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
+<h1 align="center">Hi 👋, I'm Mujeeba Noor </h1>
+<h3 align="center"> A Passionate Web Developer from Pakistan</h1>
+
+
+🌱 I'm Currently Learning
+- Advanced React patterns
+- GraphQL
+- TypeScript
+- AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujeeba-noor)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujeebanoorr@gmail.com)
@@ -8,7 +15,7 @@
 ## 🚀 About Me
 I'm a passionate MERN stack developer with expertise in building modern web applications. I love solving complex problems and creating efficient, scalable solutions with clean code.
 
-## 💻 Tech Stack
+## Languages and Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -22,25 +29,26 @@ I'm a passionate MERN stack developer with expertise in building modern web appl
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mujeeba-noor12&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeba-noor12&theme=radical" />
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-profile-trophy.vercel.app/?username=mujeeba-noor12&theme=radical&margin-w=10&margin-h=15" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeba-noor12&layout=compact&theme=radical" />
-</div>
+<h2 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mujeeba-noor12&theme=radical&row=2&column=3" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mujeeba-noor12&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200px" alt="GitHub Stats" />
+
+  
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeba-noor12&layout=compact&theme=radical&hide_border=false"  height="200px" alt="Top Languages" />
+ 
 </div>
 
-## 🌱 I'm Currently Learning
-- Advanced React patterns
-- GraphQL
-- TypeScript
-- AWS
+
+
 
 ## 💬 Let's Connect
 I'm always open to collaborating on interesting projects. Feel free to reach out!
