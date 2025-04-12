@@ -1,17 +1,18 @@
 ![logo](https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Mujeeba Noor </h1>
-<h3 align="center"> A Passionate Web Developer from Pakistan</h1>
+<h3 align="center"> Software Engineer (MERN Stack) | Building Scalable Web Solutions</h1>
 
 </br>
+<img src="https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/image.png" align="right" width="400" style="border: 2px solid #0077b5; border-radius: 10px;" />
 
 
-🌱 I'm leveling up my skills as a MERN Stack Developer by working on projects
 
-📘 Currently diving into advanced React patterns and backend optimization.
+🌱 Leveling up with MERN stack projects
 
-📫 How to reach me mujeebanoorr@gmail.com
+📘 Geeking out on React patterns & backend tweaks
 
-
+📫 How to reach me: mujeebanoorr@gmail.com
+</br>
 
 </br>
 <p >
@@ -25,9 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-## 🚀 About Me
-I'm a passionate MERN stack developer with expertise in building modern web applications. I love solving complex problems and creating efficient, scalable solutions with clean code.
+</br>
 
 ## Languages and Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,6 +46,7 @@ I'm a passionate MERN stack developer with expertise in building modern web appl
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-profile-trophy.vercel.app/?username=mujeeba-noor12&theme=radical&margin-w=10&margin-h=15" />
 </div>
+</br>
 
 <h2 align="center">GitHub Stats</h3>
 
