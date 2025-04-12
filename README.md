@@ -1,5 +1,5 @@
 ![logo](https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Mujeeba Noor </h1>
+<h1 align="center">Hi 👋, I'm Mujeeba Noor from Pakistan </h1>
 <h3 align="center"> A Passionate Web Developer from Pakistan</h1>
 
 </br>
