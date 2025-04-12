@@ -1,5 +1,5 @@
 ![logo](https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Mujeeba Noor from Pakistan </h1>
+<h1 align="center">Hi 👋, I'm Mujeeba Noor </h1>
 <h3 align="center"> A Passionate Web Developer from Pakistan</h1>
 
 </br>
@@ -57,13 +57,13 @@ I'm a passionate MERN stack developer with expertise in building modern web appl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeba-noor12&layout=compact&theme=radical&hide_border=false" height="150px" alt="Top Languages" />
  
 </div>
-
-<picture>
+<div align="center"> 
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mujeeba-Noor12/Mujeeba-Noor12/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mujeeba-Noor12/Mujeeba-Noor12/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mujeeba-Noor12/Mujeeba-Noor12/output/github-snake.svg" />
 </picture>
-
+</div>
 
 
 
