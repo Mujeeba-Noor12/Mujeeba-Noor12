@@ -1,12 +1,12 @@
 ![logo](https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Mujeeba Noor </h1>
-<h3 align="center"> Software Engineer (MERN Stack) | Building Scalable Web Solutions</h1>
+<h3 align="center"> Full stack Developer | Building Scalable Web Solutions</h1>
 
 </br>
 <img src="https://github.com/Mujeeba-Noor12/Mujeeba-Noor12/blob/main/image.png" align="right" width="400" style="border: 2px solid #0077b5; border-radius: 10px;" />
 
 
-
+   
 🌱 Leveling up with MERN stack projects
 
 📘 Geeking out on React patterns & backend tweaks
@@ -29,10 +29,12 @@
 </br>
 
 ## Languages and Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
